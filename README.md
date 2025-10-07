@@ -74,9 +74,8 @@
 
 ###
 
-<div align="center">
-  <img height="700" src="https://imgflip.com/i/a8bk0q"  />
-</div>
+![Uploading image.gif…]()
+
 
 ###
 
