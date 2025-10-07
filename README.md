@@ -75,7 +75,9 @@
 ###
 
 
-![image](https://github.com/user-attachments/assets/a8582e34-c46f-42b3-86ea-c9fc6cc344f2)
+<div align="center" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/a8582e34-c46f-42b3-86ea-c9fc6cc344f2" alt="full-width image" style="width: 100%;" />
+</div>
 
 
 ###
