@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDZoNDRsajYzb2hkZ3RycWVhazRnOWFzNG01bmkwMXZqMWN6b3R6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oL3EnlTT2hJNvBdJGa/giphy.gif"  />
+  <img height="700" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
