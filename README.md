@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="700" src="https://imgflip.com/i/a8bk0q"  />
 </div>
 
 ###
