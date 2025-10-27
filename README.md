@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rav Guzman</h2>
+<h2 align="center">Hi 👋, I'm Rav Guzman, I am 15 years old. I am from tabi lang po. Ako ay Pogi!</h2>
 
 ###
 
